@@ -1,6 +1,5 @@
 # Client-Project-Management-Analysis
-Excel-based analysis of client approach and project management challenges using survey data from a software company.
-# Client Project Management Analysis (Excel)
+Excel-based analysis of client approach and project management challenges using survey data from a software company
 
 ## 📌 Project Overview
 This project analyzes challenges in client approach and project management using survey data collected from a software company.
